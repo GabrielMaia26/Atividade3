@@ -46,7 +46,7 @@ Inclui:
 
 Verificação de campos obrigatórios
 
-Máscaras (opcional)
+Máscaras 
 
 Mensagens de erro
 
@@ -64,7 +64,7 @@ Geração de listas e cards de forma dinâmica
 
 Sistema de feedback com alerts e toasts
 
-✔ 5. Armazenamento Local (opcional, se você usar)
+✔ 5. Armazenamento Local
 
 Armazena projetos ou cadastros no localStorage
 
