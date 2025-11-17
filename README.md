@@ -108,14 +108,7 @@ css/ – sistema de estilos modular (da Entrega II).
 
 assets/img – imagens utilizadas no projeto.
 
-omo Executar o Projeto
 
-Baixe ou clone o repositório:
-
-git clone https://github.com/SEU_USUARIO/plataforma-ongs.git
-
-
-Entre na pasta:
 
 cd plataforma-ongs
 
